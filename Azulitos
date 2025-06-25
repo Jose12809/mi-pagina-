@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Azulitos Traviesos</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #65edff;
+      color: #003366;
+      line-height: 1.6;
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    h1, h2 {
+      color: #005f99;
+    }
+    .logo {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    .quote {
+      font-style: italic;
+      color: #336699;
+      margin: 1em 0;
+      padding-left: 1em;
+      border-left: 3px solid #00aaff;
+    }
+    a {
+      color: #0077cc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    ul {
+      padding-left: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="logo">
+    <h1>🌟🍹 Azulitos Traviesos 🌟</h1>
+    <p>¡Una bebida azul fuera de lo común!</p>
+  </div>
+
+  <h2>✨🍹 Bienvenido al Mundo de los Azulitos Traviesos 🚀👽</h2>
+  <p><strong>¿Estás listo para una experiencia refrescante, divertida y totalmente fuera de lo común?</strong></p>
+  <p>Descubre los <em>Azulitos Traviesos</em>, una bebida azul vibrante inspirada en la personalidad juguetona de Stitch. Diseñados para quienes se atreven a probar algo diferente, nuestros azulitos combinan sabor, actitud y estilo en una presentación única.</p>
+
+  <h2>🌿 ¿Qué es un Azulito Travieso?</h2>
+  <p>Es una bebida con un color azul brillante, servida fría y con un sabor tropical que mezcla frutas exóticas y un toque dulce. Presenta un diseño travieso y llamativo con un personaje estilo Stitch disfrutando su propio azulito.</p>
+
+  <h2>🌟 Características del Azulito</h2>
+  <ul>
+    <li>Color azul intenso y atractivo</li>
+    <li>Sabor refrescante (piña, coco y maracuyá)</li>
+    <li>Opciones con y sin alcohol</li>
+    <li>Presentación en vaso personalizado o botella coleccionable</li>
+    <li>Ideal para fiestas, playa o momentos de relax</li>
+  </ul>
+
+  <h2>💎 Ediciones Especiales</h2>
+  <p>Lanzamos <strong>ediciones limitadas</strong> con nuevos sabores, colores y diseños coleccionables. ¡Cada azulito es una sorpresa!</p>
+
+  <h2>❓ ¿Dónde conseguirlo?</h2>
+  <ul>
+    <li>Tiendas locales autorizadas</li>
+    <li>Eventos temáticos y ferias</li>
+    <li>Pedidos en redes sociales</li>
+    <li>Próximamente: Azulito Truck ❄️</li>
+  </ul>
+
+  <h2>💬 Lo que dice la gente:</h2>
+  <div class="quote">"Es como beber vacaciones en un vaso azul."<br>— Karla G.</div>
+  <div class="quote">"El diseño de Stitch me hizo comprarlo, pero el sabor me hizo volver."<br>— Diego R.</div>
+
+  <h2>📋 Participa en nuestra encuesta:</h2>
+  <p><a href="#">Haz clic aquí para responder nuestra encuesta</a> y gana premios sorpresa.</p>
+
+  <h2>📣 Síguenos en redes:</h2>
+  <ul>
+    <li>Instagram: <a href="#">@AzulitoTravieso</a></li>
+    <li>TikTok: <a href="#">@ElAzulitoOficial</a></li>
+    <li>Facebook: <a href="#">Azulito Travieso Oficial</a></li>
+  </ul>
+
+  <p style="text-align:center; font-weight:bold;">⭐ Atrévete a tomar el azul. Atrévete a ser travieso. ⭐</p>
+
+</body>
+</html>
